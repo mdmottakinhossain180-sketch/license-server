@@ -1,22 +1,22 @@
-# ==========================================
-# MASTER KEY (Unlimited Devices & Lifetime)
-# ==========================================
-MOTTAKIN-MASTER-ULTIMATE-9999
+# ==============================================================================
+# GITHUB LICENSE MANAGEMENT SERVER (keys.txt)
+# ==============================================================================
 
-# ==========================================
-# 1-MONTH KEYS (Max 2 Devices Auto-Register)
-# ==========================================
-MOTTAKIN-1M-A89F2 | NONE | NONE
-MOTTAKIN-1M-B33K9 | NONE | NONE
-MOTTAKIN-1M-C77P4 | NONE | NONE
-MOTTAKIN-1M-D88Q5 | NONE | NONE
-MOTTAKIN-1M-E99R6 | NONE | NONE
+# ------------------------------------------------------------------------------
+# 1. PERMANENT UNLIMITED MASTER KEY (NO DEVICE LOCK + PERMANENT ACCESS)
+# Format: KEY_NAME_WITH_MASTER|YYYY-MM-DD
+# ------------------------------------------------------------------------------
+MOTTAKIN-PERMANENT-MASTER-KEY|2099-12-31
 
-# ==========================================
-# 2-MONTH KEYS (Max 2 Devices Auto-Register)
-# ==========================================
-MOTTAKIN-2M-X77L1 | NONE | NONE
-MOTTAKIN-2M-Y88M2 | NONE | NONE
-MOTTAKIN-2M-Z99N3 | NONE | NONE
-MOTTAKIN-2M-W66K4 | NONE | NONE
-MOTTAKIN-2M-V55J5 | NONE | NONE
+# ------------------------------------------------------------------------------
+# 2. TEMPORARY UNLIMITED MASTER KEYS (10-DAY TRIAL / MULTI-DEVICE)
+# ------------------------------------------------------------------------------
+MOTTAKIN-MASTER-KEY|2026-09-17
+MOTTAKIN-VIP-MASTER|2026-09-17
+
+# ------------------------------------------------------------------------------
+# 3. DEVICE-LOCKED CLIENT KEYS (HWID BOUND)
+# Format: KEY_NAME|YYYY-MM-DD|HWID_SLOT_1|HWID_SLOT_2
+# ------------------------------------------------------------------------------
+MOTTAKIN-CLIENT-A89F2|2026-10-07|NONE|NONE
+MOTTAKIN-CLIENT-B72X1|2026-10-07|NONE|NONE
