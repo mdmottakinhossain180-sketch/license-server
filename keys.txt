@@ -12,7 +12,7 @@ MOTTAKIN-PERMANENT-MASTER-KEY|2099-12-31
 # 2. TEMPORARY UNLIMITED MASTER KEYS (10-DAY TRIAL / MULTI-DEVICE)
 # ------------------------------------------------------------------------------
 MOTAKIN-MASTER-KEY|2026-09-17
-MOTTAKIN-VIP-MASTER|2026-09-17
+MOTTAKIN-VIP-MASTER|2026-09-20
 
 # ------------------------------------------------------------------------------
 # 3. DEVICE-LOCKED CLIENT KEYS (HWID BOUND)
